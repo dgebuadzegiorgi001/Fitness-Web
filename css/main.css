@@ -1,0 +1,520 @@
+a{
+    text-decoration: none;
+    box-shadow: none;
+    color: inherit;
+}
+header{
+    margin-left: 22px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+.mg-left{
+    margin-left: 10%;
+}
+.headerPar{
+    display: flex;
+}
+.mainlogo{
+    width: 180px;
+    height: 55px;
+}
+.headerText{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.number{
+    margin-left: 220px;
+    display: flex;
+    align-items: center ;
+}
+.phone{
+    width: 45px;
+    height: 45px;
+    margin-right: 20px;
+}
+.hash2{
+    margin-left: 15px;
+}
+.restinpiss{
+    width: 100%;
+    height: 600px;
+}
+.onphoto{
+    position: absolute;
+    top: 265px;
+    left: 11%;
+    color: white;
+    font-size: 70px;
+}
+.getButton{
+    position: absolute;
+    top: 500px;
+    left: 11%;
+    background-color: skyblue;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.Sticky{
+    display: grid;
+    position: fixed;
+    top: 50%;
+}
+.imgWidth{
+    width: 30px;
+}
+.packItem{
+    position: relative;
+}
+.elemOverPic{
+    position: absolute;
+    text-align: center;
+    bottom: 25%;
+    margin-left: 90px;
+}
+.imgPack{
+    width: 476px;
+    height: 283px;
+    opacity: 0.75;
+}
+.mainText{
+    color: white;
+    font-size: 25px;
+}
+.secondText{
+    color:#B5B6B8;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.packButton{
+    border: none;
+    padding: 10px 35px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.packages{
+    display: flex;
+    margin: 50px 11% 50px 11%;
+    justify-content: space-between;
+}
+.colorF{
+    background-color: #FF6C2C;
+}
+.colorS{
+    background-color: #945B9F;
+}
+.colorTh{
+    background-color: #5EB6E1;
+}
+.welcomeToSection{
+    margin: 180px 10% 40px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.packItem:hover{
+    zoom:1.1;
+}
+.aboutUs{
+    margin-bottom: 15px;
+    color:red;
+    font-size: 15px;
+    letter-spacing: 4px;
+}
+.headerTextSec{
+    font-size: 40px;
+}
+.lineUnder{  
+    height: 1px;
+    width: 60%;
+    background-color: #5EB6E1;
+    float: left;
+}
+.textUnderLine{
+    color: #9E9E9E;
+    font-size: 30px;
+}
+.makeRed{
+    color: red;
+    margin-bottom: 15px;
+}
+.textPart{
+    width: 420px;
+    margin-bottom: 280px;
+}
+.photoPart{
+    display: flex;
+    align-items: center;
+}
+.firstPic{
+    margin-right: 35px;
+}
+.secThirdPics{
+    display: grid;
+}
+.readMoreButton{
+    margin-top: 25px;
+    background-color: skyblue;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 35px 2px;
+    cursor: pointer;
+}
+.ourClassesSection{
+    text-align: center;
+    padding: 7% 7% 7% 7%;
+    background-color: #222224;
+}
+.ourClassesLine{
+    margin-top: 25px;
+    height: 1px;
+    width: 6%;
+    background-color: #5EB6E1;
+}
+.ourClassesText{
+    margin: 0 auto;
+    text-align: center;
+    color: #9E9E9E;
+    font-size: 30px;
+    width: 1000px;
+}
+.ourClassesItem{
+    position: relative;
+}
+.ourClassesItems{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+.clasesPic{
+    width: 646px;
+    height: 499px;
+}
+.textOverImg{
+    position: absolute;
+    color: white;
+    text-align: center;
+    bottom: 0px;
+    width: 285px;
+    padding: 20px 180px 20px 180px;
+    font-size: 30px;
+    background-color: #232E31;
+}
+.elemOnElem{
+    position: absolute;
+    bottom: 70px;
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+    width: 85%;
+    height: 66%;
+    align-content: center;
+    background-color: #0B85D0;
+}
+.onElemHeader{
+    font-size: 30px;
+    color: white;
+    margin-top: 14%;
+}
+.onElemLine{
+    margin-top: 25px;
+    height: 1px;
+    width: 15%;
+    background-color: white;
+}
+.textOnElem{
+    color: #C5E0F2;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.buttonOnElem{
+    margin-top: 25px;
+    background-color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 15px 2px;
+    cursor: pointer;
+}
+.ourTeam{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.name{
+    font-size: 35px;
+    padding-top: 10px;
+}
+.profession{
+    font-size: 30px;
+    color: #545961;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+.ourTeamImg{
+    width: 450px;
+    height: 347px;
+}
+.textAndIcons{
+    text-align: center;
+}
+.textAndIcons{
+    border-style: solid;
+    border-top: none;
+    border-width: 1px;
+    padding-bottom: 10px;
+}
+.btnDiv{
+    text-align: center;
+}
+.seeAllTeamBtn{
+    background-color: skyblue;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 21px;
+    margin: 45px 2px;
+    margin-bottom: 95px;
+    cursor: pointer;
+
+}
+.scrElem{
+    display: flex;
+}
+.left{
+    background-color: #5EB6E1;
+    border-radius: 40px;
+    height: 27px;
+    padding-bottom: 6px;
+    padding-top: 10px;
+    width: 40px;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    font-size: 25px;
+}
+.right{
+    background-color: #5EB6E1;
+    border-radius: 40px;
+    height: 27px;
+    padding-bottom: 6px;
+    padding-top: 10px;
+    width: 40px;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    font-size: 25px;
+}
+.clientImg{
+    margin-top: 70px;
+}
+.clientNamSurnam{
+    font-size: 35px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.status{
+    color: #A2A3A5;
+}
+.dots{
+    border-bottom: 10px dotted #5EB6E1;
+    width: 50px;
+    height: 6px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+.newsItems{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.newsHeader{
+    color: #5EB6E1;
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.newsText{
+    color:#919293;
+    font-size: 21px;
+}
+.newsItem{
+    width: 380px;
+    padding: 25px 25px 35px 25px;
+    background-color: black;
+}
+.infoElem{
+    margin-top: 40px;
+    float: left;
+}
+.firstInfo{
+    margin-right: 35px;
+}
+.contactUs{
+    background-color: #181A1F;
+    justify-content: space-around;
+    display: flex;
+}
+.contactHeader{
+
+    margin-bottom: 10px;
+    font-size: 40px;
+    color: white;
+}
+.leftSide{
+    padding-top: 150px;
+    margin-left: 90px;
+}
+.contactLine{
+    height: 1px;
+    width: 20%;
+    background-color: #5EB6E1;
+    float: left;
+}
+#subject{
+    padding: 5px 5px 5px 5px;
+    width: 320px;
+    background-color: transparent;
+    color: #9A9B9C;
+    border-color: #5EB6E1;
+    border-style: 1px;
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.email{
+    padding: 5px 5px 5px 5px;
+    width: 306px;
+    background-color: transparent;
+    color: #9A9B9C;
+    border-color: #5EB6E1;
+    border-style: solid;
+    margin-bottom: 25px;
+}
+.message{
+    padding: 5px 5px 5px 5px;
+    width: 308px;
+    background-color: transparent;
+    color: #9A9B9C;
+    border-color: #5EB6E1;
+    border-style: solid;
+    margin-bottom: 25px;
+}
+.submit{
+    background-color: #5EB6E1;
+    border: none;
+    padding: 15px 135px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.contactInfo{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+}
+.rightSideImg{
+    height: 900px;
+}
+.secondPart{
+    display: flex;
+    background-color: #19191C;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.locationHeader{
+    color: white;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.locationText{
+    color: white;
+    margin-top: 15px;
+}
+.contactInf{
+    display: flex;
+    margin-top: 10px;
+}
+.cnIcon{
+    color: #BCBCBC;
+    margin-left: 10px;
+}
+.socNet{
+    display: flex;
+}
+.socImg{
+    margin-top: 25px;
+}
+.tagsItems{
+    width: 340px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item{
+    padding:10px 10px 10px 10px;
+    border-width: 1px;
+    border-color: #5EB6E1;
+    border-style: solid;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+    color: white;
+}
+.item:hover{
+    background-color: #5EB6E1;
+}
+.tagsName{
+    color: white;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.navItem{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 23px;
+    color: white;
+}
+.nav{
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    background-color: #5EB6E1;
+}
+footer{
+    text-align: center;
+    color:#9A9B9C ;
+    background-color: #19191C;
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
